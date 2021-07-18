@@ -1,0 +1,7 @@
+
+.tablecontainer {
+    min-height: 648px;
+    height: 648px;
+    position: relative;
+    display: block;
+}

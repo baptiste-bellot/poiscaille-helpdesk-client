@@ -1,0 +1,35 @@
+/*Form Layout*/
+.fullHeightCard {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+.incidentForm {
+    flex: 1;
+    &>div {
+        position: relative;
+        margin: 8px;
+    }
+    ul {
+        list-style: none;
+        position: relative;
+        margin: 8px;
+        padding: 0 30px 0 0;
+        li {
+            position: relative;
+        }
+    }
+} 
+
+/*Add and remove icons for list values*/
+.appendIcon {
+    position: absolute;
+    bottom: 3px;
+    right: 0;
+    background: white;
+}
+.appendIconInline {
+    position: absolute;
+    bottom: 3px;
+    right: -30px;
+}

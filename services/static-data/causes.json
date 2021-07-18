@@ -1,0 +1,45 @@
+{
+    "Conditionnement": [
+        "Fuite",
+        "Ouvert"
+    ],
+    "Livraison": [
+        "Retard",
+        "Retard au lendemain",
+        "Casier manquant",
+        "Température",
+        "Livraison partielle",
+        "Livraison à la mauvaise adresse",
+        "Non livré",
+        "Équipement"
+    ],
+    "Point Relais": [
+        "Fermeture",
+        "Casier manquant"
+    ],
+    "Produit": [
+        "Inversion",
+        "Poids",
+        "Manque",
+        "Fraicheur",
+        "Mortalité",
+        "Découpe",
+        "Diversité",
+        "Non vidé",
+        "Vers",
+        "Sable"
+    ],
+    "Client": [
+        "Oubli",
+        "Paiement",
+        "Insatisfaction"
+    ],
+    "E-commerce": [
+        "Navigateur",
+        "Paiement",
+        "Email non reçu",
+        "Commande impossible",
+        "Frais de livraison",
+        "Autre"
+    ]
+}
